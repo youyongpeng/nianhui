@@ -1,0 +1,1518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e191d27c-b59a-497e-a0a4-687dd5e8feda" name="Default Changelist" comment="">
+      <change afterPath="E:/boot-web-test/src/main/java/com/yyp/bootwebtest/controller/TestController.java" afterDir="false" />
+      <change afterPath="E:/boot-web-test/src/main/resources/pages/model.html" afterDir="false" />
+      <change afterPath="E:/boot-web-test/src/main/resources/static/pages/hello.html" afterDir="false" />
+      <change afterPath="E:/boot-web-test/src/main/resources/static/pages/model.html" afterDir="false" />
+      <change afterPath="E:/boot-web-test/src/main/resources/templates/hello.html" afterDir="false" />
+      <change afterPath="E:/boot-web-test/src/main/resources/templates/jsp/model.html" afterDir="false" />
+      <change afterPath="E:/boot-web-test/src/main/webapp/WEB-INF/html/myHtml.html" afterDir="false" />
+      <change afterPath="E:/boot-web-test/src/main/webapp/WEB-INF/jsp/hello.jsp" afterDir="false" />
+      <change afterPath="E:/boot-web-test/src/main/webapp/hello.html" afterDir="false" />
+      <change afterPath="E:/boot-web-test/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/css/guanwang.css" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/about/about_logo.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/about/aptitude/aptitude_01.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/about/aptitude/aptitude_02.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/about/aptitude/aptitude_03.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/about/aptitude/aptitude_04.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/cooperation/flow.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/cooperation/logo/bdh_logo.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/cooperation/logo/ces_logo.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/cooperation/logo/ylh_logo.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/home/main_header.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/home/programme/5.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/home/programme/6.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/home/programme/7.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/home/programme/8.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/home/scene/16.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/home/scene/17.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/home/scene/18.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/home/worth/logo/2.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/home/worth/logo/3.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/home/worth/logo/4.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/logo.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/solution/bigdata/1.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/solution/bigdata/2.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/solution/bigdata/3.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/solution/bigdata/4.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/solution/bigdata/5.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/solution/bigdata/6.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/solution/bigdata/logo_1.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/solution/bigdata/logo_2.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/solution/bigdata/logo_3.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/solution/bigdata/logo_4.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/solution/bigdata/logo_5.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/solution/face/1.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/solution/face/2.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/solution/face/3.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/solution/face/4.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/solution/face/face_header_pic.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/solution/service/operation/1.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/solution/service/operation/10.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/solution/service/operation/11.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/solution/service/operation/13.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/solution/service/operation/14.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/solution/service/operation/15.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/solution/service/operation/2.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/solution/service/operation/3.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/solution/service/operation/4.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/solution/service/operation/6.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/solution/service/operation/7.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/solution/service/operation/8.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/images/solution/service/operation/9.png" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/assets/js/jQuery.fontFlex.js" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/components/about/About.vue" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/components/cooperation/Cooperation.vue" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/components/footer/bottom.js" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/components/footer/footer.vue" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/components/header/Header.vue" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/components/join/join.vue" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/components/main.vue" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/components/menu/menu.js" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/components/menu/menus.vue" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/components/news/detail/detail.vue" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/components/news/list.vue" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/components/news/news.json" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/components/solution/bigdata/Bigdata.vue" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/components/solution/face/Face.vue" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/src/components/solution/service/Operation.vue" afterDir="false" />
+      <change afterPath="E:/bootstrap/guanwang/static/favicon.ico" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/img/bg.jpg" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/img/camera.png" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/img/camera3.png" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/img/相机@2x.png" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/css/planeui.basic.css" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/css/planeui.basic.min.css" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/css/planeui.css" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/css/planeui.logo.css" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/css/planeui.logo.min.css" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/css/planeui.min.css" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/data/icon.fontawesome.json" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/data/icon.taobao.mobile.json" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/data/material.design.colors.json" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/fonts/OpenSans-Light.ttf" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/fonts/OpenSans-Regular-webfont.eot" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/fonts/OpenSans-Regular-webfont.svg" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/fonts/OpenSans-Regular-webfont.ttf" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/fonts/OpenSans-Regular-webfont.woff" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/fonts/iconfont.eot" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/fonts/iconfont.svg" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/fonts/iconfont.ttf" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/fonts/iconfont.woff" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/fonts/planeui-logo.eot" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/fonts/planeui-logo.svg" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/fonts/planeui-logo.ttf" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/fonts/planeui-logo.woff" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/icons/icon-114x114.png" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/icons/icon-120x120.png" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/icons/icon-144x144.png" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/icons/icon-180x180.png" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/icons/icon-57x57.png" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/icons/icon-72x72.png" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/images/select.png" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/images/select@2x.png" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/images/select@3x.png" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/js/planeui.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/js/planeui.min.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/js/planeui.patch.ie8.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/js/planeui.patch.ie8.min.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/js/planeui.patch.ie9.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/js/planeui.patch.ie9.min.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/logo/logo-128x128.png" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/logo/logo-180x180.png" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/logo/logo-24x24.png" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/logo/logo-256x256.png" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/logo/logo-32x32.png" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/logo/logo-48x48.png" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/logo/logo-64x64.png" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/logo/logo-72x72.png" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/logo/logo-96x96.png" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/plugins/fullpager/fullpager.css" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/plugins/fullpager/fullpager.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/plugins/scrollbar/scrollbar.css" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/dist/plugins/scrollbar/scrollbar.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/js/basic.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/js/button.sheets.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/js/checkbox.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/js/color.picker.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/js/dialog-iframe-test.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/js/dialog-test.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/js/dialog.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/js/draggable.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/js/draggable.touch.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/js/file-input.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/js/font-sizer.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/js/form.validator.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/js/form.validator.test.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/js/hover.scroller.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/js/iepatch/iepatch.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/js/inviewport.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/js/jquery-1.11.3.min.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/js/jquery-2.1.1.min.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/js/menu.accordion.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/js/menu.dropdown.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/js/module.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/js/notice.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/js/progress.ring.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/js/radio.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/js/rating.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/js/require.min.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/js/scrollto.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/js/sea.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/js/search.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/js/side.position.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/js/side.slide.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/js/switch.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/js/switch.slide.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/js/tab.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/js/tooltip.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/plugins/fullpager/fullpager.css" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/plugins/fullpager/fullpager.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/plugins/scrollbar/scrollbar.css" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/plugins/scrollbar/scrollbar.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/animation.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/app.layout.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/app.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/arrow.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/article.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/badge.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/border.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/breadcrumb.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/browsehappy.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/button.close.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/button.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/button.sheet.list.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/button.sheet.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/card.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/checkbox.radio.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/classes.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/color.picker.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/comment.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/dialog.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/flexbox.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/font.face.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/font.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/font.sizer.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/form.file.input.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/form.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/grid.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/headers.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/icons.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/images.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/list.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/list.top10.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/list.view.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/loading.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/mask.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/menu.accordion.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/menu.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/notice.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/pagination.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/planeui.basic.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/planeui.components.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/planeui.logo.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/planeui.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/progress.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/rating.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/reset.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/scrollbar.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/search.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/switch.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/switch.slide.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/tab.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/table.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/text.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/theme.gradient.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/third-party/font-awesome.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/third-party/iconfont.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/third-party/normalize.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/third-party/prefixes.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/timeline.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/faceone/src/planeui/scss/tooltip.scss" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/src/components/desktop/Desktop.vue" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/.gitignore" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/LICENSE.txt" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/README.md" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/child.html" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/component/font-awesome-4.7.0/css/font-awesome.css" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/component/font-awesome-4.7.0/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/component/font-awesome-4.7.0/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/component/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/component/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/component/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/component/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/component/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/component/layer-v3.0.3/layer/layer.full.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/component/layer-v3.0.3/layer/layer.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/component/layer-v3.0.3/layer/mobile/layer.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/component/layer-v3.0.3/layer/mobile/need/layer.css" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/component/layer-v3.0.3/layer/skin/default/icon-ext.png" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/component/layer-v3.0.3/layer/skin/default/icon.png" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/component/layer-v3.0.3/layer/skin/default/layer.css" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/component/layer-v3.0.3/layer/skin/default/loading-0.gif" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/component/layer-v3.0.3/layer/skin/default/loading-1.gif" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/component/layer-v3.0.3/layer/skin/default/loading-2.gif" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/css/animate.css" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/css/default.css" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/demo.html" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/img/avatar.jpg" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/img/icon/baidu.png" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/img/icon/blogger.png" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/img/icon/demo.png" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/img/icon/doc.png" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/img/icon/download.png" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/img/icon/github.png" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/img/icon/kyzg.png" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/img/icon/website.png" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/img/icon/win10.png" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/img/presentation/1.png" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/img/presentation/bluescreen.jpg" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/img/presentation/donation.jpg" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/img/presentation/wangyiyun.gif" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/img/wallpapers/login.jpg" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/img/wallpapers/main.jpg" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/img/wallpapers/mobile.jpg" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/img/windows.ico" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/index.html" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/js/jquery-2.2.4.min.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/js/win10.child.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/js/win10.js" afterDir="false" />
+      <change afterPath="E:/html5workspace/winuiweb/static/desktop/login.html" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/.idea/libraries/Maven__com_github_sarxos_webcam_capture_0_3_12.xml" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/.idea/libraries/Maven__com_nativelibs4java_bridj_0_7_0.xml" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_2.xml" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/.idea/misc.xml" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/.idea/modules.xml" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/Core27.iml" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/Img/Img1/1.jpg" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/Img/Img1/10.jpg" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/Img/Img1/11.jpg" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/Img/Img1/12.jpg" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/Img/Img1/2.jpg" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/Img/Img1/3.jpg" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/Img/Img1/4.jpg" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/Img/Img1/5.jpg" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/Img/Img1/6.jpg" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/Img/Img1/7.jpg" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/Img/Img1/8.jpg" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/Img/Img1/9.jpg" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/Img/Img2/1.jpg" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/Img/Img2/10.jpg" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/Img/Img2/11.jpg" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/Img/Img2/12.jpg" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/Img/Img2/2.jpg" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/Img/Img2/3.jpg" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/Img/Img2/4.jpg" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/Img/Img2/5.jpg" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/Img/Img2/6.jpg" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/Img/Img2/7.jpg" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/Img/Img2/8.jpg" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/Img/Img2/9.jpg" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/com/hanvon/iChannel/sdk/CaptureDemo.java" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/com/hanvon/iChannel/sdk/HWFaceRecGpuSDK.java" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/com/hanvon/iChannel/sdk/HWFaceRecMultiSDK.java" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/com/hanvon/iChannel/sdk/HWFaceRecUtils.java" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/com/hanvon/iChannel/sdk/HWFaceSDK.java" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/com/hanvon/iChannel/sdk/TheApp.java" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/com/hanvon/iChannel/shibie/FileHelper.java" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/com/hanvon/iChannel/shibie/HWFaceRecUtils.java" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/com/hanvon/iChannel/shibie/HWFaceSDK.java" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/com/hanvon/iChannel/shibie/TheApp.java" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/lib/jna-4.1.0.jar" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/lib/lib32/HWCompare.dll" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/lib/lib32/HWFaceLive.dll" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/lib/lib32/libiomp5md.dll" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/lib/lib64/HWCompare.dll" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/lib/lib64/HWFaceLive.dll" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/main/java/lib/lib64/libiomp5md.dll" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/test/java/CoreTEST.java" afterDir="false" />
+      <change afterPath="E:/iChannel.core27/src/test/java/TEST.java" afterDir="false" />
+      <change afterPath="E:/qrc-cloud-palteform/src/main/java/com/yyp/qrc/tcpserver/DataConfig.java" afterDir="false" />
+      <change afterPath="E:/qrc-cloud-palteform/src/main/java/com/yyp/qrc/tcpserver/TcpServer.java" afterDir="false" />
+      <change afterPath="E:/qrc-cloud-palteform/src/main/java/com/yyp/qrc/websocket/DownLoadSortCards.java" afterDir="false" />
+      <change afterPath="E:/qrc-cloud-palteform/src/main/java/com/yyp/qrc/websocket/OpenAllDeviceDoor.java" afterDir="false" />
+      <change afterPath="E:/qrc-cloud-palteform/src/main/java/com/yyp/qrc/websocket/SocketServer.java" afterDir="false" />
+      <change afterPath="E:/qrc-cloud-palteform/src/main/java/com/yyp/qrc/websocket/TCPClientDemo.java" afterDir="false" />
+      <change afterPath="E:/qrc-cloud-palteform/src/main/java/com/yyp/qrc/websocket/TcpServer.java" afterDir="false" />
+      <change afterPath="E:/vueworkspases/test/src/components/assembly/MyTable.vue" afterDir="false" />
+      <change afterPath="E:/vueworkspases/visitor/src/App.vue" afterDir="false" />
+      <change afterPath="E:/vueworkspases/visitor/src/assets/images/pic-delete.png" afterDir="false" />
+      <change afterPath="E:/vueworkspases/visitor/src/assets/images/pic-logo.png" afterDir="false" />
+      <change afterPath="E:/vueworkspases/visitor/src/assets/images/pic_shift_h.png" afterDir="false" />
+      <change afterPath="E:/vueworkspases/visitor/src/assets/images/pic_shirt_l.png" afterDir="false" />
+      <change afterPath="E:/vueworkspases/visitor/src/components/Main.vue" afterDir="false" />
+      <change afterPath="E:/vueworkspases/visitor/src/components/banner/banner.vue" afterDir="false" />
+      <change afterPath="E:/vueworkspases/visitor/src/components/input-mobile.vue" afterDir="false" />
+      <change afterPath="E:/vueworkspases/visitor/src/components/keyboard/index.js" afterDir="false" />
+      <change afterPath="E:/vueworkspases/visitor/src/components/keyboard/keyboard.vue" afterDir="false" />
+      <change afterPath="E:/vueworkspases/visitor/src/components/keyboard/num-keyboard.vue" afterDir="false" />
+      <change afterPath="E:/vueworkspases/visitor/src/components/login/Login.vue" afterDir="false" />
+      <change afterPath="E:/vueworkspases/visitor/src/main.js" afterDir="false" />
+      <change afterPath="E:/vueworkspases/visitor/src/router/index.js" afterDir="false" />
+      <change afterPath="E:/vueworkspases/visitor2/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="E:/vueworkspases/visitor2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="E:/vueworkspases/visitor2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="E:/vueworkspases/visitor2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="E:/vueworkspases/visitor2/src/renderer/assets/images/pic-delete.png" afterDir="false" />
+      <change afterPath="E:/vueworkspases/visitor2/src/renderer/assets/images/pic-logo.png" afterDir="false" />
+      <change afterPath="E:/vueworkspases/visitor2/src/renderer/assets/images/pic_shift_h.png" afterDir="false" />
+      <change afterPath="E:/vueworkspases/visitor2/src/renderer/assets/images/pic_shirt_l.png" afterDir="false" />
+      <change afterPath="E:/vueworkspases/visitor2/src/renderer/components/Main.vue" afterDir="false" />
+      <change afterPath="E:/vueworkspases/visitor2/src/renderer/components/banner/banner.vue" afterDir="false" />
+      <change afterPath="E:/vueworkspases/visitor2/src/renderer/components/input-mobile.vue" afterDir="false" />
+      <change afterPath="E:/vueworkspases/visitor2/src/renderer/components/keyboard/index.js" afterDir="false" />
+      <change afterPath="E:/vueworkspases/visitor2/src/renderer/components/keyboard/keyboard.vue" afterDir="false" />
+      <change afterPath="E:/vueworkspases/visitor2/src/renderer/components/keyboard/num-keyboard.vue" afterDir="false" />
+      <change afterPath="E:/vueworkspases/visitor2/src/renderer/components/login/Login.vue" afterDir="false" />
+      <change afterPath="E:/vueworkspases/visitor3/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="E:/vueworkspases/visitor3/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="E:/vueworkspases/visitor3/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="E:/vueworkspases/visitor3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/nianhui.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/artifacts/print_service_war.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/artifacts/print_service_war_exploded.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/dictionaries/Administrator.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__c3p0_c3p0_0_9_1_1.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__cn_zzstc_statistics_umeng_statistics_api_0_2_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__com_aliyun_aliyun_java_sdk_core_3_5_1.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__com_aliyun_aliyun_java_sdk_dysmsapi_1_1_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__com_aliyun_aliyun_java_sdk_ecs_4_2_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__com_aliyun_aliyun_java_sdk_ram_3_0_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__com_aliyun_aliyun_java_sdk_sts_3_0_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__com_aliyun_oss_aliyun_sdk_oss_3_0_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__com_egzosn_pay_java_ali_2_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__com_egzosn_pay_java_common_2_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__com_egzosn_pay_java_wx_2_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_6.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_9_6.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_6.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_6.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_6.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__com_github_axet_kaptcha_0_0_9.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__com_github_miwurster_spring_data_influxdb_1_7.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__com_itextpdf_itext_asian_5_2_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__com_itextpdf_itextpdf_5_5_13.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__com_jhlabs_filters_2_0_235.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__com_squareup_moshi_moshi_1_4_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__com_squareup_okhttp3_logging_interceptor_3_9_1.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_9_1.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__com_squareup_okio_okio_1_13_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__com_squareup_retrofit2_converter_moshi_2_3_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__com_squareup_retrofit2_retrofit_2_3_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__com_sun_jersey_jersey_core_1_9.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__com_sun_jersey_jersey_json_1_9.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__io_springfox_springfox_core_2_9_2.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__io_springfox_springfox_schema_2_9_2.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__io_springfox_springfox_spi_2_9_2.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__io_springfox_springfox_spring_web_2_9_2.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__io_springfox_springfox_swagger2_2_9_2.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__io_springfox_springfox_swagger_common_2_9_2.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__io_springfox_springfox_swagger_ui_2_9_2.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__io_swagger_swagger_annotations_1_5_20.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__io_swagger_swagger_models_1_5_20.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__javax_xml_bind_jaxb_api_2_3_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__mysql_mysql_connector_java_5_1_47.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__net_java_dev_jna_jna_4_5_2.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_apache_geronimo_specs_geronimo_stax_api_1_0_spec_1_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_10.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_apache_poi_poi_3_7.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_apache_poi_poi_ooxml_3_7.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_apache_poi_poi_ooxml_schemas_3_7.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_core_8_5_32.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_el_8_5_32.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_32.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_apache_xmlbeans_xmlbeans_2_3_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_codehaus_jackson_jackson_core_asl_1_8_3.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_codehaus_jackson_jackson_jaxrs_1_8_3.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_codehaus_jackson_jackson_mapper_asl_1_8_3.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_codehaus_jackson_jackson_xc_1_8_3.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_codehaus_jettison_jettison_1_1.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_eclipse_jetty_jetty_annotations_9_4_12_v20180830.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_eclipse_jetty_jetty_client_9_4_12_v20180830.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_eclipse_jetty_jetty_continuation_9_4_12_v20180830.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_eclipse_jetty_jetty_http_9_4_12_v20180830.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_eclipse_jetty_jetty_io_9_4_12_v20180830.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_eclipse_jetty_jetty_plus_9_4_12_v20180830.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_eclipse_jetty_jetty_security_9_4_12_v20180830.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_eclipse_jetty_jetty_server_9_4_12_v20180830.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_eclipse_jetty_jetty_servlet_9_4_12_v20180830.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_eclipse_jetty_jetty_servlets_9_4_12_v20180830.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_eclipse_jetty_jetty_util_9_4_12_v20180830.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_eclipse_jetty_jetty_webapp_9_4_12_v20180830.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_eclipse_jetty_jetty_xml_9_4_12_v20180830.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_eclipse_jetty_websocket_javax_websocket_client_impl_9_4_12_v20180830.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_eclipse_jetty_websocket_javax_websocket_server_impl_9_4_12_v20180830.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_api_9_4_12_v20180830.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_client_9_4_12_v20180830.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_common_9_4_12_v20180830.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_server_9_4_12_v20180830.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_servlet_9_4_12_v20180830.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_eclipse_paho_org_eclipse_paho_client_mqttv3_1_1_1.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_hibernate_hibernate_validator_5_3_6_Final.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_hibernate_validator_hibernate_validator_6_0_11_Final.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_hibernate_validator_hibernate_validator_6_0_12_Final.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_influxdb_influxdb_java_2_9.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_jdom_jdom_1_1.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_jdom_jdom_2_0_2.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_json_json_20170516.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_mapstruct_mapstruct_1_2_0_Final.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_mortbay_jasper_apache_el_8_5_33.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_ow2_asm_asm_6_2.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_ow2_asm_asm_analysis_6_2.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_ow2_asm_asm_commons_6_2.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_ow2_asm_asm_tree_6_2.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_quartz_scheduler_quartz_2_2_3.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_slf4j_slf4j_simple_1_7_25.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_boot_spring_boot_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_boot_spring_boot_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_boot_spring_boot_autoconfigure_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_boot_spring_boot_autoconfigure_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_jdbc_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_jdbc_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_jetty_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_json_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_json_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_logging_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_logging_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_test_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_test_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_tomcat_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_web_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_web_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_autoconfigure_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_autoconfigure_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_data_spring_data_commons_2_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_spring_aop_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_spring_aop_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_spring_beans_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_spring_beans_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_spring_context_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_spring_context_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_spring_core_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_spring_core_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_spring_expression_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_spring_expression_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_spring_jcl_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_spring_jcl_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_spring_jdbc_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_spring_jdbc_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_spring_test_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_spring_test_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_spring_tx_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_spring_tx_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_spring_web_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_spring_web_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_spring_webmvc_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__org_springframework_spring_webmvc_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Gradle__xml_apis_xml_apis_1_4_01.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_5.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_5.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_5.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_5.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_5.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__com_google_zxing_core_3_3_2.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_11.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__net_java_dev_jna_jna_4_5_1.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_31.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_31.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_31.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_attoparser_attoparser_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_9_Final.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_websocket_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_springframework_spring_aop_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_springframework_spring_beans_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_springframework_spring_context_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_springframework_spring_core_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_springframework_spring_expression_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_springframework_spring_messaging_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_springframework_spring_test_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_springframework_spring_web_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_springframework_spring_websocket_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_unbescape_unbescape_1_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/modules/big-acc_main.iml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/modules/big-acc_test.iml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/modules/big-access.iml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/modules/big-access_main.iml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/modules/big-access_test.iml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/modules/face-service_main.iml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/modules/face-service_test.iml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/modules/lzm-business-ws.iml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/modules/lzm-business-ws_main.iml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/modules/lzm-business-ws_test.iml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/modules/lzm-ec-ws.iml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/modules/qrc-access.iml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/modules/qrc-access_main.iml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/modules/qrc-access_test.iml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/modules/smart-switch_main.iml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/modules/smart-switch_test.iml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/modules/umeng-statistics-api.iml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/modules/umeng-statistics-api_main.iml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/modules/umeng-statistics-api_test.iml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/modules/visitor-machine-tool.iml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/modules/web-test.iml" afterDir="false" />
+      <change afterPath="E:/workspase3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/dictionaries/Administrator.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__c3p0_c3p0_0_9_1_1.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__cn_zzstc_statistics_umeng_statistics_api_0_2_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_alibaba_druid_1_1_9.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_alibaba_druid_spring_boot_starter_1_1_9.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_alibaba_fastjson_1_2_47.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_aliyun_aliyun_java_sdk_core_3_5_1.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_aliyun_aliyun_java_sdk_dysmsapi_1_1_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_aliyun_aliyun_java_sdk_ecs_4_2_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_aliyun_aliyun_java_sdk_ram_3_0_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_aliyun_aliyun_java_sdk_sts_3_0_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_aliyun_oss_aliyun_sdk_oss_3_0_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_baomidou_mybatis_plus_2_3.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_baomidou_mybatis_plus_core_2_3.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_baomidou_mybatis_plus_generate_2_3.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_baomidou_mybatis_plus_support_2_3.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_baomidou_mybatisplus_spring_boot_starter_1_0_4.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_carrotsearch_java_sizeof_0_0_4.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_egzosn_pay_java_ali_2_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_egzosn_pay_java_common_2_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_egzosn_pay_java_wx_2_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_5.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_9_5.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_5.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_5.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_5.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_gexin_platform_gexin_rp_fastjson_1_0_0_1.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_gexin_platform_gexin_rp_sdk_base_4_0_0_20.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_gexin_platform_gexin_rp_sdk_http_4_0_1_15.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_gexin_platform_gexin_rp_sdk_template_4_0_0_14.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_github_axet_kaptcha_0_0_9.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_github_jsqlparser_jsqlparser_1_1.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_github_miwurster_spring_data_influxdb_1_7.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_google_protobuf_protobuf_java_2_5_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_googlecode_concurrentlinkedhashmap_concurrentlinkedhashmap_lru_1_4_2.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_itextpdf_itext_asian_5_2_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_itextpdf_itextpdf_5_5_13.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_jhlabs_filters_2_0_235.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_squareup_moshi_moshi_1_4_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_squareup_okhttp3_logging_interceptor_3_9_1.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_9_1.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_squareup_okio_okio_1_13_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_squareup_retrofit2_converter_moshi_2_3_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_squareup_retrofit2_retrofit_2_3_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_sun_jersey_jersey_core_1_9.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_sun_jersey_jersey_json_1_9.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_thoughtworks_paranamer_paranamer_2_8.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__com_zaxxer_HikariCP_2_7_9.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__commons_beanutils_commons_beanutils_1_9_3.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__io_jsonwebtoken_jjwt_0_9_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__io_lettuce_lettuce_core_5_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__io_netty_netty_buffer_4_1_24_Final.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__io_netty_netty_codec_4_1_24_Final.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__io_netty_netty_common_4_1_24_Final.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__io_netty_netty_handler_4_1_24_Final.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__io_netty_netty_resolver_4_1_24_Final.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__io_netty_netty_transport_4_1_24_Final.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__io_projectreactor_reactor_core_3_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__javax_websocket_javax_websocket_api_1_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__javax_xml_bind_jaxb_api_2_3_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__ma_glasnost_orika_orika_core_1_5_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__mysql_mysql_connector_java_5_1_46.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_7_11.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_agent_1_7_11.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__net_java_dev_jna_jna_4_5_2.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_apache_geronimo_specs_geronimo_stax_api_1_0_spec_1_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_4.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_9.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_apache_httpcomponents_httpmime_4_5_5.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_api_2_10_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_apache_poi_poi_3_7.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_apache_poi_poi_ooxml_3_7.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_apache_poi_poi_ooxml_schemas_3_7.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_apache_shiro_shiro_cache_1_4_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_apache_shiro_shiro_config_core_1_4_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_apache_shiro_shiro_config_ogdl_1_4_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_apache_shiro_shiro_core_1_4_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_apache_shiro_shiro_crypto_cipher_1_4_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_apache_shiro_shiro_crypto_core_1_4_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_apache_shiro_shiro_crypto_hash_1_4_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_apache_shiro_shiro_event_1_4_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_apache_shiro_shiro_lang_1_4_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_apache_shiro_shiro_spring_1_4_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_apache_shiro_shiro_web_1_4_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_apache_xmlbeans_xmlbeans_2_3_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_aspectj_aspectjweaver_1_8_13.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_assertj_assertj_core_3_9_1.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_codehaus_jackson_jackson_core_asl_1_8_3.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_codehaus_jackson_jackson_jaxrs_1_8_3.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_codehaus_jackson_jackson_mapper_asl_1_8_3.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_codehaus_jackson_jackson_xc_1_8_3.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_codehaus_janino_commons_compiler_3_0_8.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_codehaus_janino_janino_3_0_8.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_codehaus_jettison_jettison_1_1.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_eclipse_jetty_jetty_annotations_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_eclipse_jetty_jetty_client_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_eclipse_jetty_jetty_continuation_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_eclipse_jetty_jetty_http_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_eclipse_jetty_jetty_io_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_eclipse_jetty_jetty_plus_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_eclipse_jetty_jetty_security_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_eclipse_jetty_jetty_server_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_eclipse_jetty_jetty_servlet_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_eclipse_jetty_jetty_servlets_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_eclipse_jetty_jetty_util_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_eclipse_jetty_jetty_webapp_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_eclipse_jetty_jetty_xml_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_eclipse_jetty_websocket_javax_websocket_client_impl_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_eclipse_jetty_websocket_javax_websocket_server_impl_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_api_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_client_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_common_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_server_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_servlet_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_freemarker_freemarker_2_3_28.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_hibernate_hibernate_validator_5_3_6_Final.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_hibernate_validator_hibernate_validator_6_0_9_Final.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_influxdb_influxdb_java_2_9.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_javassist_javassist_3_19_0_GA.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_jdom_jdom_2_0_2.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_json_json_20170516.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_mockito_mockito_core_2_15_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_mortbay_jasper_apache_el_8_5_24_2.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_mybatis_mybatis_3_4_6.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_mybatis_mybatis_spring_1_3_2.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_ow2_asm_asm_6_1_1.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_ow2_asm_asm_analysis_6_1_1.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_ow2_asm_asm_commons_6_1_1.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_ow2_asm_asm_tree_6_1_1.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_projectlombok_lombok_1_16_22.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_quartz_scheduler_quartz_2_2_3.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_springframework_boot_spring_boot_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_springframework_boot_spring_boot_autoconfigure_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_aop_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_data_redis_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_jdbc_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_jetty_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_json_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_logging_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_test_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_web_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_autoconfigure_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_springframework_data_spring_data_commons_2_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_springframework_data_spring_data_keyvalue_2_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_springframework_data_spring_data_redis_2_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_springframework_spring_aop_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_springframework_spring_beans_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_springframework_spring_context_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_springframework_spring_context_support_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_springframework_spring_core_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_springframework_spring_expression_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_springframework_spring_jcl_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_springframework_spring_jdbc_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_springframework_spring_oxm_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_springframework_spring_test_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_springframework_spring_tx_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_springframework_spring_web_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_springframework_spring_webmvc_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_xmlunit_xmlunit_core_2_5_1.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__org_yaml_snakeyaml_1_19.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/libraries/Gradle__xml_apis_xml_apis_1_4_01.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/modules/visitor-machine-front.iml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/modules/visitor-machine-front_main.iml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/modules/visitor-machine-front_test.iml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/modules/visitor-machine-ws_main.iml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/modules/visitor-machine-ws_test.iml" afterDir="false" />
+      <change afterPath="E:/workspase4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="E:/workspases/my-boot2/src/main/java/com/yyp/myboot/RegularExpressionTest.java" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/dictionaries/Administrator.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__c3p0_c3p0_0_9_1_1.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__cn_zzstc_statistics_umeng_statistics_api_0_2_0.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_alibaba_druid_1_1_9.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_alibaba_druid_spring_boot_starter_1_1_9.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_alibaba_fastjson_1_2_47.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_aliyun_aliyun_java_sdk_core_3_5_1.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_aliyun_aliyun_java_sdk_dysmsapi_1_1_0.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_aliyun_aliyun_java_sdk_ecs_4_2_0.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_aliyun_aliyun_java_sdk_ram_3_0_0.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_aliyun_aliyun_java_sdk_sts_3_0_0.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_aliyun_oss_aliyun_sdk_oss_3_0_0.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_baomidou_mybatis_plus_2_3.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_baomidou_mybatis_plus_core_2_3.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_baomidou_mybatis_plus_generate_2_3.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_baomidou_mybatis_plus_support_2_3.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_baomidou_mybatisplus_spring_boot_starter_1_0_4.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_carrotsearch_java_sizeof_0_0_4.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_egzosn_pay_java_ali_2_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_egzosn_pay_java_common_2_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_egzosn_pay_java_wx_2_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_5.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_9_5.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_5.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_5.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_5.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_gexin_platform_gexin_rp_fastjson_1_0_0_1.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_gexin_platform_gexin_rp_sdk_base_4_0_0_20.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_gexin_platform_gexin_rp_sdk_http_4_0_1_15.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_gexin_platform_gexin_rp_sdk_template_4_0_0_14.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_github_axet_kaptcha_0_0_9.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_github_jsqlparser_jsqlparser_1_1.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_google_protobuf_protobuf_java_2_5_0.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_googlecode_concurrentlinkedhashmap_concurrentlinkedhashmap_lru_1_4_2.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_itextpdf_itext_asian_5_2_0.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_itextpdf_itextpdf_5_5_13.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_jhlabs_filters_2_0_235.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_sun_jersey_jersey_core_1_9.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_sun_jersey_jersey_json_1_9.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_thoughtworks_paranamer_paranamer_2_8.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__com_zaxxer_HikariCP_2_7_9.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__commons_beanutils_commons_beanutils_1_9_3.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__io_jsonwebtoken_jjwt_0_9_0.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__io_lettuce_lettuce_core_5_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__io_netty_netty_buffer_4_1_24_Final.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__io_netty_netty_codec_4_1_24_Final.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__io_netty_netty_common_4_1_24_Final.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__io_netty_netty_handler_4_1_24_Final.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__io_netty_netty_resolver_4_1_24_Final.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__io_netty_netty_transport_4_1_24_Final.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__io_projectreactor_reactor_core_3_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__javax_websocket_javax_websocket_api_1_0.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__javax_xml_bind_jaxb_api_2_3_0.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__ma_glasnost_orika_orika_core_1_5_0.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__mysql_mysql_connector_java_5_1_46.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_7_11.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_agent_1_7_11.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_apache_geronimo_specs_geronimo_stax_api_1_0_spec_1_0.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_4.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_5.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_9.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_apache_httpcomponents_httpmime_4_5_5.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_api_2_10_0.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_apache_poi_poi_3_7.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_apache_poi_poi_ooxml_3_7.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_apache_poi_poi_ooxml_schemas_3_7.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_apache_shiro_shiro_cache_1_4_0.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_apache_shiro_shiro_config_core_1_4_0.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_apache_shiro_shiro_config_ogdl_1_4_0.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_apache_shiro_shiro_core_1_4_0.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_apache_shiro_shiro_crypto_cipher_1_4_0.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_apache_shiro_shiro_crypto_core_1_4_0.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_apache_shiro_shiro_crypto_hash_1_4_0.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_apache_shiro_shiro_event_1_4_0.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_apache_shiro_shiro_lang_1_4_0.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_apache_shiro_shiro_spring_1_4_0.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_apache_shiro_shiro_web_1_4_0.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_apache_xmlbeans_xmlbeans_2_3_0.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_aspectj_aspectjweaver_1_8_13.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_assertj_assertj_core_3_9_1.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_codehaus_jackson_jackson_core_asl_1_8_3.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_codehaus_jackson_jackson_jaxrs_1_8_3.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_codehaus_jackson_jackson_mapper_asl_1_8_3.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_codehaus_jackson_jackson_xc_1_8_3.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_codehaus_janino_commons_compiler_3_0_8.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_codehaus_janino_janino_3_0_8.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_codehaus_jettison_jettison_1_1.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_eclipse_jetty_jetty_annotations_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_eclipse_jetty_jetty_client_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_eclipse_jetty_jetty_continuation_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_eclipse_jetty_jetty_http_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_eclipse_jetty_jetty_io_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_eclipse_jetty_jetty_plus_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_eclipse_jetty_jetty_security_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_eclipse_jetty_jetty_server_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_eclipse_jetty_jetty_servlet_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_eclipse_jetty_jetty_servlets_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_eclipse_jetty_jetty_util_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_eclipse_jetty_jetty_webapp_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_eclipse_jetty_jetty_xml_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_eclipse_jetty_websocket_javax_websocket_client_impl_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_eclipse_jetty_websocket_javax_websocket_server_impl_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_api_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_client_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_common_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_server_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_servlet_9_4_10_v20180503.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_freemarker_freemarker_2_3_28.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_hibernate_validator_hibernate_validator_6_0_9_Final.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_javassist_javassist_3_19_0_GA.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_jdom_jdom_2_0_2.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_json_json_20170516.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_mockito_mockito_core_2_15_0.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_mortbay_jasper_apache_el_8_5_24_2.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_mybatis_mybatis_3_4_6.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_mybatis_mybatis_spring_1_3_2.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_ow2_asm_asm_6_1_1.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_ow2_asm_asm_analysis_6_1_1.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_ow2_asm_asm_commons_6_1_1.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_ow2_asm_asm_tree_6_1_1.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_projectlombok_lombok_1_16_22.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_quartz_scheduler_quartz_2_2_3.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_springframework_boot_spring_boot_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_springframework_boot_spring_boot_autoconfigure_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_aop_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_data_redis_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_jdbc_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_jetty_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_json_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_logging_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_test_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_web_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_autoconfigure_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_springframework_data_spring_data_commons_2_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_springframework_data_spring_data_keyvalue_2_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_springframework_data_spring_data_redis_2_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_springframework_spring_aop_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_springframework_spring_beans_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_springframework_spring_context_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_springframework_spring_context_support_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_springframework_spring_core_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_springframework_spring_expression_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_springframework_spring_jcl_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_springframework_spring_jdbc_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_springframework_spring_oxm_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_springframework_spring_test_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_springframework_spring_tx_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_springframework_spring_web_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_springframework_spring_webmvc_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_xmlunit_xmlunit_core_2_5_1.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__org_yaml_snakeyaml_1_19.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/libraries/Gradle__xml_apis_xml_apis_1_4_01.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/misc.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/modules.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/modules/lzm-business-ws.iml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/modules/lzm-business-ws_main.iml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/modules/lzm-business-ws_test.iml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/modules/lzm-ec-ws.iml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/modules/lzm-ec-ws_main.iml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/modules/lzm-ec-ws_test.iml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="E:/ylhworkspase/.idea/ylhworkspase.iml" afterDir="false" />
+      <change afterPath="E:/zzstc55workspase/.idea/modules.xml" afterDir="false" />
+      <change afterPath="E:/zzstc55workspase/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="E:/zzstc55workspase/.idea/zzstc55workspase.iml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/.idea/misc.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/.idea/modules.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/.idea/zzstcworkspase.iml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/hwSdkTest/src/Img/Img1/1.jpg" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/hwSdkTest/src/Img/Img1/10.jpg" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/hwSdkTest/src/Img/Img1/11.jpg" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/hwSdkTest/src/Img/Img1/12.jpg" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/hwSdkTest/src/Img/Img1/2.jpg" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/hwSdkTest/src/Img/Img1/3.jpg" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/hwSdkTest/src/Img/Img1/4.jpg" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/hwSdkTest/src/Img/Img1/5.jpg" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/hwSdkTest/src/Img/Img1/6.jpg" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/hwSdkTest/src/Img/Img1/7.jpg" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/hwSdkTest/src/Img/Img1/8.jpg" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/hwSdkTest/src/Img/Img1/9.jpg" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/hwSdkTest/src/Img/Img2/1.jpg" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/hwSdkTest/src/Img/Img2/10.jpg" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/hwSdkTest/src/Img/Img2/11.jpg" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/hwSdkTest/src/Img/Img2/12.jpg" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/hwSdkTest/src/Img/Img2/2.jpg" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/hwSdkTest/src/Img/Img2/3.jpg" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/hwSdkTest/src/Img/Img2/4.jpg" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/hwSdkTest/src/Img/Img2/5.jpg" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/hwSdkTest/src/Img/Img2/6.jpg" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/hwSdkTest/src/Img/Img2/7.jpg" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/hwSdkTest/src/Img/Img2/8.jpg" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/hwSdkTest/src/Img/Img2/9.jpg" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/hwSdkTest/src/com/hanvon/iChannel/sdk/HWFaceRecGpuSDK.java" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/hwSdkTest/src/com/hanvon/iChannel/sdk/HWFaceRecMultiSDK.java" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/hwSdkTest/src/com/hanvon/iChannel/sdk/HWFaceRecUtils.java" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/hwSdkTest/src/com/hanvon/iChannel/sdk/HWFaceSDK.java" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/hwSdkTest/src/com/hanvon/iChannel/sdk/TheApp.java" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/hwSdkTest/src/lib/jna-4.1.0.jar" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/hwSdkTest/src/lib/lib32/HWFaceLive.dll" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/hwSdkTest/src/lib/lib64/HWFaceLive.dll" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_alibaba_druid_1_1_10.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_10.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_baomidou_mybatis_plus_2_3.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_2_3.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_baomidou_mybatis_plus_generate_2_3.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_baomidou_mybatis_plus_support_2_3.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_baomidou_mybatisplus_spring_boot_starter_1_0_5.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_6.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_6.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_9_6.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_6.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_6.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_9_6.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_6.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_0_3.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_github_andrewoma_dexx_dexx_collections_0_2.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_1.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_github_vlsi_compactmap_compactmap_1_2_1.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_google_guava_guava_16_0.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_9_3.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_9_3.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_12.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_3_0.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_2_5.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_2_5.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_2_5.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_2_5.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_2_5.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_2_5.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_netflix_servo_servo_core_0_12_21.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19_1.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19_1.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_10.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_9.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__io_micrometer_micrometer_core_1_0_6.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__io_netty_netty_buffer_4_1_29_Final.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__io_netty_netty_codec_4_1_29_Final.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_29_Final.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__io_netty_netty_common_4_1_29_Final.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__io_netty_netty_resolver_4_1_29_Final.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__io_netty_netty_transport_4_1_29_Final.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_1_29_Final.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_29_Final.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_11.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_34.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_34.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_34.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_56.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_56.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_10.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_12_Final.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_server_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_spring_aop_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_spring_beans_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_spring_context_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_spring_core_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_spring_expression_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_spring_test_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_spring_tx_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_spring_web_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/misc.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/modules.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/business/src/main/java/cn/zzstc/business/controller/HelloController.java" afterDir="false" />
+      <change afterPath="E:/zzstcworkspase/zzstc-parent/zzstc-parent.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="214512203">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="js" value="5" />
+          <entry key="json" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="104" />
+          <entry key="js" value="24" />
+          <entry key="json" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="104" />
+          <entry key="JSON" value="8" />
+          <entry key="JavaScript" value="24" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="192723892">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4975">
+              <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/renderer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/js/threejs/three.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="E:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/main.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="1934" />
+    <option name="height" value="1037" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="nianhui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nianhui" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\weblg\electron-quick-start\static\images" />
+      <recent name="E:\weblg\electron-quick-start\static\js\threejs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Electron" type="js.build_tools.npm" factoryName="npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e191d27c-b59a-497e-a0a4-687dd5e8feda" name="Default Changelist" comment="" />
+      <created>1545981957981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545981957981</updated>
+      <workItem from="1545981959828" duration="4862000" />
+      <workItem from="1545987231348" duration="240000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5102000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.20521173" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/static/js/threejs/js/vr/WebVR.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1650" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4975">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renderer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/threejs/three.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
