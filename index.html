@@ -102,6 +102,7 @@
     <button id="sphere">SPHERE</button>
     <button id="helix">HELIX</button>
     <button id="grid">GRID</button>
+    <button id="audio_control" >开始</button>
   </div>
 
     <script>
@@ -227,16 +228,34 @@
           "Ts", "Tennessine", "(294)", 17, 7,
           "Og", "Oganesson", "(294)", 18, 7
       ];
-      var camera, scene, renderer;
-      var controls;
+      var camera, scene, renderer, group;
+      var controls, _rt =0;
       var objects = [];
       var targets = { table: [], sphere: [], helix: [], grid: [] };
       init();
       animate();
+
+
       function init() {
           camera = new THREE.PerspectiveCamera( 40, window.innerWidth / window.innerHeight, 1, 10000 );
           camera.position.z = 3000;
           scene = new THREE.Scene();
+          group = new THREE.Group();
+          scene.add(group);
+          console.info(group)
+
+          var listener = new THREE.AudioListener();
+          camera.add( listener );
+          var sound = new THREE.Audio( listener );
+          var audioLoader = new THREE.AudioLoader();
+          audioLoader.load( 'static/mp3/bgyy1.mp3', function( buffer ) {
+              sound.setBuffer( buffer );
+              sound.setLoop( true );
+              sound.setVolume( 1 );
+              _rt = 0.01
+              sound.play();
+          });
+
           // table
           for ( var i = 0; i < table.length; i += 5 ) {
               var element = document.createElement( 'div' );
@@ -259,6 +278,7 @@
               object.position.y = Math.random() * 4000 - 2000;
               object.position.z = Math.random() * 4000 - 2000;
               scene.add( object );
+              group.add(object)
               objects.push( object );
               //
               var object = new THREE.Object3D();
@@ -275,6 +295,7 @@
               object.position.setFromSphericalCoords( 800, phi, theta );
               vector.copy( object.position ).multiplyScalar( 2 );
               object.lookAt( vector );
+              group.add(object);
               targets.sphere.push( object );
           }
           // helix
@@ -324,6 +345,18 @@
           button.addEventListener( 'click', function () {
               transform( targets.grid, 2000 );
           }, false );
+          var audioControl = document.getElementById("audio_control");
+          audioControl.addEventListener('click', function () {
+              if(sound.isPlaying){
+                  sound.stop();
+                  _rt =  0;
+                  audioControl.innerHTML = '开始'
+              } else  {
+                  sound.play();
+                  _rt =  0.03;
+                  audioControl.innerHTML = '暂停'
+              }
+          })
           transform( targets.table, 2000 );
           //
           window.addEventListener( 'resize', onWindowResize, false );
@@ -346,6 +379,7 @@
               .to( {}, duration * 2 )
               .onUpdate( render )
               .start();
+
       }
       function onWindowResize() {
           camera.aspect = window.innerWidth / window.innerHeight;
@@ -356,9 +390,14 @@
       function animate() {
           requestAnimationFrame( animate );
           TWEEN.update();
-          controls.update();
+         // controls.update();
+          render();
       }
       function render() {
+        //  group.rotation.x+=_rt;
+          group.rotation.y+=_rt;
+          group.rotation.z+=_rt;
+
           renderer.render( scene, camera );
       }
     </script>
